@@ -78,10 +78,6 @@
       <HintPath>C:\Users\Neon Shadow\Documents\Program\Unity Editor\6000.2.13f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="UnityEngine.AIModule">
-      <HintPath>C:\Users\Neon Shadow\Documents\Program\Unity Editor\6000.2.13f1\Editor\Data\Managed\UnityEngine\UnityEngine.AIModule.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
     <Reference Include="UnityEngine.ARModule">
       <HintPath>C:\Users\Neon Shadow\Documents\Program\Unity Editor\6000.2.13f1\Editor\Data\Managed\UnityEngine\UnityEngine.ARModule.dll</HintPath>
       <Private>False</Private>
@@ -104,10 +100,6 @@
     </Reference>
     <Reference Include="UnityEngine.AudioModule">
       <HintPath>C:\Users\Neon Shadow\Documents\Program\Unity Editor\6000.2.13f1\Editor\Data\Managed\UnityEngine\UnityEngine.AudioModule.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="UnityEngine.ClothModule">
-      <HintPath>C:\Users\Neon Shadow\Documents\Program\Unity Editor\6000.2.13f1\Editor\Data\Managed\UnityEngine\UnityEngine.ClothModule.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="UnityEngine.ClusterInputModule">
@@ -258,20 +250,12 @@
       <HintPath>C:\Users\Neon Shadow\Documents\Program\Unity Editor\6000.2.13f1\Editor\Data\Managed\UnityEngine\UnityEngine.SubstanceModule.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="UnityEngine.SubsystemsModule">
-      <HintPath>C:\Users\Neon Shadow\Documents\Program\Unity Editor\6000.2.13f1\Editor\Data\Managed\UnityEngine\UnityEngine.SubsystemsModule.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
     <Reference Include="UnityEngine.TLSModule">
       <HintPath>C:\Users\Neon Shadow\Documents\Program\Unity Editor\6000.2.13f1\Editor\Data\Managed\UnityEngine\UnityEngine.TLSModule.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="UnityEngine.TerrainModule">
       <HintPath>C:\Users\Neon Shadow\Documents\Program\Unity Editor\6000.2.13f1\Editor\Data\Managed\UnityEngine\UnityEngine.TerrainModule.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="UnityEngine.TerrainPhysicsModule">
-      <HintPath>C:\Users\Neon Shadow\Documents\Program\Unity Editor\6000.2.13f1\Editor\Data\Managed\UnityEngine\UnityEngine.TerrainPhysicsModule.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="UnityEngine.TextCoreFontEngineModule">
@@ -296,14 +280,6 @@
     </Reference>
     <Reference Include="UnityEngine.UIElementsModule">
       <HintPath>C:\Users\Neon Shadow\Documents\Program\Unity Editor\6000.2.13f1\Editor\Data\Managed\UnityEngine\UnityEngine.UIElementsModule.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="UnityEngine.UmbraModule">
-      <HintPath>C:\Users\Neon Shadow\Documents\Program\Unity Editor\6000.2.13f1\Editor\Data\Managed\UnityEngine\UnityEngine.UmbraModule.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="UnityEngine.UnityAnalyticsModule">
-      <HintPath>C:\Users\Neon Shadow\Documents\Program\Unity Editor\6000.2.13f1\Editor\Data\Managed\UnityEngine\UnityEngine.UnityAnalyticsModule.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="UnityEngine.UnityAnalyticsCommonModule">
@@ -350,28 +326,12 @@
       <HintPath>C:\Users\Neon Shadow\Documents\Program\Unity Editor\6000.2.13f1\Editor\Data\Managed\UnityEngine\UnityEngine.VFXModule.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="UnityEngine.VRModule">
-      <HintPath>C:\Users\Neon Shadow\Documents\Program\Unity Editor\6000.2.13f1\Editor\Data\Managed\UnityEngine\UnityEngine.VRModule.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="UnityEngine.VehiclesModule">
-      <HintPath>C:\Users\Neon Shadow\Documents\Program\Unity Editor\6000.2.13f1\Editor\Data\Managed\UnityEngine\UnityEngine.VehiclesModule.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
     <Reference Include="UnityEngine.VideoModule">
       <HintPath>C:\Users\Neon Shadow\Documents\Program\Unity Editor\6000.2.13f1\Editor\Data\Managed\UnityEngine\UnityEngine.VideoModule.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="UnityEngine.VirtualTexturingModule">
       <HintPath>C:\Users\Neon Shadow\Documents\Program\Unity Editor\6000.2.13f1\Editor\Data\Managed\UnityEngine\UnityEngine.VirtualTexturingModule.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="UnityEngine.WindModule">
-      <HintPath>C:\Users\Neon Shadow\Documents\Program\Unity Editor\6000.2.13f1\Editor\Data\Managed\UnityEngine\UnityEngine.WindModule.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="UnityEngine.XRModule">
-      <HintPath>C:\Users\Neon Shadow\Documents\Program\Unity Editor\6000.2.13f1\Editor\Data\Managed\UnityEngine\UnityEngine.XRModule.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="UnityEditor">
